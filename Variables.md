@@ -14,7 +14,7 @@
 Variables are containers that store data values. Think of them as labeled boxes or even labeled doors in a building, where you can put different types of information that your program needs to remember.
 
 ```js
-let username = "Juadeb"; // This variable stores the string "Sarah"
+let username = "Juadeb"; // This variable stores the string "Juadeb"
 ```
 
 ## Declaring Variables
